@@ -1,0 +1,11 @@
+numpy==1.24.3
+pandas==1.5.3
+minio==7.1.15
+sqlalchemy>=1.4.0
+python-dotenv==1.0.0
+great-expectations==0.18.4
+requests==2.31.0
+redis==4.6.0
+watchdog==3.0.0
+fastapi>=0.68.0
+psycopg2-binary>=2.9.3
